@@ -2,7 +2,8 @@ public enum Status {
     Item,
     Ground,
     Normal,
-    Pacient,
+    Patient,
     Doctor,
-    Courier
+    Courier,
+    Wall
 }
